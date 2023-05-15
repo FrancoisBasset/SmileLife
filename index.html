@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			body {
+				background-color: black;
+			}
+
+			.card {
+				border-radius: 10px;
+				margin: 5px;
+			}
+		</style>
+	</head>
+	<body>
+		<select id="smiles">
+			<option value="all">Tout</option>
+			<option value=" ">Aucun</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+		</select>
+		<br>
+		<br>
+		<select id="diploma">
+			<option value="all">Tout</option>
+			<option value=" ">Aucun</option>
+			<option value="0">0</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+			<option value="6">6</option>
+			<option value="P">P</option>
+		</select>
+		<br>
+		<br>
+		<select id="salary">
+			<option value="all">Tout</option>
+			<option value=" ">Aucun</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+		</select>
+		<br>
+		<br>
+
+		<button onclick="show()">Show</button>
+
+		<div id="cards"></div>
+
+		<script>
+			let cards;
+			const cardsDiv = document.getElementById('cards');
+
+			fetch('/cards.json').then(function(response) {
+				response.json().then(function(json) {
+					cards = json;
+				})
+			});
+
+			function show() {
+				const smiles = document.getElementById('smiles').value;
+				const diploma = document.getElementById('diploma').value;
+				const salary = document.getElementById('salary').value;
+				cardsDiv.innerHTML = '';
+
+				let cardsFiltered = cards;
+
+				if (smiles != 'all') {
+					cardsFiltered = cardsFiltered.filter(c => c.smiles == smiles);
+				}
+
+				if (diploma != 'all') {
+					cardsFiltered = cardsFiltered.filter(c => c.diploma == diploma);
+				}
+
+				if (salary != 'all') {
+					cardsFiltered = cardsFiltered.filter(c => c.salary == salary);
+				}
+
+				cardsFiltered.forEach(function(card) {
+					cardsDiv.innerHTML += '<img class="card" src="/cards/' + card.file + '" width="100" />';
+				});
+			}
+		</script>
+	</body>
+</html>

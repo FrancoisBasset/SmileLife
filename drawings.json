@@ -1,0 +1,400 @@
+{
+	"diploma1": {
+		"texts": [
+			"10px Roboto,white,,45",
+			"10px Roboto,white,,220"
+		]
+	},
+	"diploma2": {
+		"texts": [
+			"10px Roboto,white,,45",
+			"10px Roboto,black,,190",
+			"10px Roboto,white,,220"
+		]
+	},
+	"job2": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"8px Roboto,black,,225"
+		]
+	},
+	"job3": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"7px Roboto,white,,40",
+			"8px Roboto,black,,225"
+		]
+	},
+	"greatteacher": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"7px Roboto,white,,40",
+			"8px Roboto,black,,222",
+			"8px Roboto,black,,232"
+		]
+	},
+	"salary1": {
+		"texts": [
+			"10px Roboto,white,,45",
+			"10px Roboto,white,,220"
+		]
+	},
+	"salary2": {
+		"texts": [
+			"10px Roboto,white,,45",
+			"10px Roboto,white,,220"
+		]
+	},
+	"salary3": {
+		"texts": [
+			"10px Roboto,white,,45",
+			"10px Roboto,white,,220"
+		]
+	},
+	"salary4": {
+		"texts": [
+			"10px Roboto,white,,45",
+			"10px Roboto,white,,220"
+		]
+	},
+	"flirt": {
+		"texts": [
+			"bold italic 10px Roboto,#ff0066,,45",
+			"bold 10px Roboto,#ffb3b3,,210"
+		]
+	},
+	"flirtchild": {
+		"texts": [
+			"bold italic 10px Roboto,#ff0066,,45",
+			"bold 10px Roboto,#ffb3b3,,210",
+			"7px Roboto,white,,225"
+		]
+	},
+	"wedding": {
+		"texts": [
+			"bold italic 10px Cursive,#ff0066,,43"
+		]
+	},
+	"heritage": {
+		"texts": [
+			"bold 10px Roboto,white,,40",
+			"bold 7px Roboto,white,,215"
+		]
+	},
+	"honor": {
+		"texts": [
+			"bold 9px Serif,white,,49",
+			"7px Serif,black,,217",
+			"7px Serif,black,,227"
+		]
+	},
+	"house": {
+		"texts": [
+			"bold italic 10px Roboto,#ff471a,105,35",
+			"7px Roboto,black,,194",
+			"7px Roboto,#ff0066,,234"
+		]
+	},
+	"child": {
+		"texts": [
+			"bold italic 10px Roboto,#ff0066,,43",
+			"bold 15px Roboto,white,,218"
+		]
+	},
+	"accident": {
+		"texts": [
+			"bold 10px Roboto,white,,38",
+			"9px Roboto,white,,229"
+		]
+	},
+	"illness": {
+		"texts": [
+			"bold 10px Roboto,white,,38",
+			"9px Roboto,white,,229"
+		]
+	},
+	"layoff": {
+		"texts": [
+			"bold 10px Roboto,white,,38",
+			"9px Roboto,white,,229"
+		]
+	},
+	"divorce": {
+		"texts": [
+			"bold 10px Roboto,white,,38",
+			"9px Roboto,white,,229"
+		]
+	},
+	"attack": {
+		"texts": [
+			"bold 10px Roboto,white,,38",
+			"7px Roboto,white,,222",
+			"7px Roboto,white,,234"
+		]
+	},
+	"jail": {
+		"texts": [
+			"bold 10px Roboto,white,,38",
+			"7px Roboto,white,,222",
+			"7px Roboto,white,,234"
+		]
+	},
+	"burnout": {
+		"texts": [
+			"bold 10px Roboto,white,,38",
+			"7px Roboto,white,,222",
+			"7px Roboto,white,,234"
+		]
+	},
+	"tax": {
+		"texts": [
+			"bold 10px Roboto,white,,38",
+			"7px Roboto,white,,222",
+			"7px Roboto,white,,234"
+		]
+	},
+	"donkey": {
+		"texts": [
+			"bold 10px Roboto,white,,38",
+			"7px Roboto,white,,222",
+			"7px Roboto,white,,234"
+		]
+	},
+	"pet": {
+		"texts": [
+			"bold italic 10px Roboto,black,,23",
+			"bold italic 10px Roboto,black,,33",
+			"10px Roboto,black,,224"
+		]
+	},
+	"unicorn": {
+		"texts": [
+			"bold italic 10px Roboto,black,,27",
+			"bold italic 10px Roboto,black,,37",
+			"italic 11px Cursive,black,,215",
+			"italic 11px Cursive,black,,225",
+			"italic 11px Cursive,black,,235"
+		]
+	},
+	"voyage": {
+		"texts": [
+			"bold italic 12px Roboto,black,,23",
+			"bold 9px Roboto,black,50,214"
+		]
+	},
+	"excellence": {
+		"texts":[
+			"8px Roboto,black,,46",
+			"6px Roboto,black,105,80",
+			"6px Roboto,black,99,90",
+			"6px Roboto,black,113,100",
+			"6px Roboto,black,103,110",
+			"6px Roboto,black,100,120",
+			"8px Roboto,black,,216",
+			"8px Roboto,black,,226",
+			"8px Roboto,black,,236"
+		]
+	},
+	"adultery": {
+		"texts": [
+			"italic 11px Roboto,white,,40",
+			"italic 7px Roboto,white,,206",
+			"italic 7px Roboto,white,,216",
+			"italic 7px Roboto,white,,226"
+		]
+	},
+	"birthday": {
+		"texts": [
+			"bold italic 11px Roboto,white,,40",
+			"italic 7px Roboto,white,,220",
+			"italic 7px Roboto,white,,230"
+		]
+	},
+	"casino": {
+		"texts": [
+			"bold italic 11px Roboto,white,,40",
+			"italic 6px Roboto,white,,215",
+			"italic 6px Roboto,white,,225",
+			"italic 6px Roboto,white,,235"
+		]
+	},
+	"chance": {
+		"texts": [
+			"bold italic 11px Roboto,white,,40",
+			"italic 7px Roboto,white,,220",
+			"italic 7px Roboto,white,,230"
+		]
+	},
+	"rainbow": {
+		"texts": [
+			"bold italic 11px Roboto,white,,40",
+			"italic 7px Roboto,white,,220",
+			"italic 7px Roboto,white,,230"
+		]
+	},
+	"revenge": {
+		"texts": [
+			"bold italic 11px Roboto,white,,40",
+			"italic 7px Roboto,white,,220",
+			"italic 7px Roboto,white,,230"
+		]
+	},
+	"fallingstar": {
+		"texts": [
+			"bold italic 11px Roboto,white,,40",
+			"italic 7px Roboto,white,,220",
+			"italic 7px Roboto,white,,230"
+		]
+	},
+	"piston": {
+		"texts": [
+			"bold italic 11px Roboto,white,,40",
+			"italic 7px Roboto,white,,220",
+			"italic 7px Roboto,white,,230"
+		]
+	},
+	"barter": {
+		"texts": [
+			"bold italic 11px Roboto,white,,40",
+			"italic 7px Roboto,white,,220",
+			"italic 7px Roboto,white,,230"
+		]
+	},
+	"tsunami": {
+		"texts": [
+			"bold italic 11px Roboto,white,,40",
+			"italic 7px Roboto,white,,220",
+			"italic 7px Roboto,white,,230"
+		]
+	},
+	"military": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"7px Roboto,white,,40",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"policeman": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"7px Roboto,white,,40",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"barman": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"7px Roboto,white,,40",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"pilot": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"architect": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"astronaut": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"doctor": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"bandit": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234",
+			"italic 5px Roboto,black,134,235",
+			"italic 5px Roboto,black,131,240"
+		]
+	},
+	"journalist": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"lawyer": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"purshasemanager": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"salesmanager": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"mechanic": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"pharmacist": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"medium": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"researcher": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,black,,219",
+			"italic 7px Roboto,black,,234"
+		]
+	},
+	"chirurgist": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"italic 7px Roboto,white,,219",
+			"italic 7px Roboto,white,,234"
+		]
+	},
+	"writer": {
+		"texts": [
+			"10px Roboto,black,,24",
+			"8px Roboto,black,,225"
+		]
+	}
+}
